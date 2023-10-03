@@ -1,0 +1,272 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Gothic A1', sans-serif;
+    list-style: none;
+}
+
+header{
+    background: black;
+    height: 50px;
+    clear: both;
+}
+
+nav{
+    color: white;
+    width: 80%;
+    float: left;
+}
+
+h1{
+    width: 20%;
+    color: white;
+    float: left;
+    padding: 5px 0px 5px 90px;
+    margin: 0;
+    font-family: 'Gothic A1', sans-serif;
+    font-style: italic;
+}
+header li{ 
+    list-style-type: none;
+    display: inline-block;
+    float: right;
+
+}
+header a{
+    text-decoration: none;
+    color: white;
+    padding-right: 10px;
+    margin-right: 10px;
+
+}
+
+
+h2{
+    padding-left: 30px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+header nav ul{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 7rem;
+}
+
+.one{
+
+    width: 70%;
+    float: left;
+    padding: 50px;
+}
+
+.two{
+
+    width: 30%;
+    float: left;
+    padding-top: 50px;
+    padding-left: 20px;
+}
+
+.articles-w-pics{
+    width: 70%;
+    float: left;
+
+
+}
+.patriots{
+    width: 100%;
+    float: left;
+
+}
+
+.patriots img{
+    width: 80%;
+}
+
+.boston, .trump{
+    height: 300px;
+    width: 50%;
+    float: left;
+
+}
+
+.boston img, .trump img{
+    height: 70%;
+    width: 90%; 
+}
+
+.small-articles{
+    width: 30%;
+    float: left;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+.fifty{
+    width: 80%;
+    float: left;
+}
+
+.ford{
+    width: 50%;
+    float: left;
+    padding-left: 50px;
+}
+
+.pg2-articles{
+
+    width: 50%;
+    float: right;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.page1, .page2{
+    width: 100%;
+}
+
+footer{
+    width: 100%;
+    float: left;
+}
+
+.social-media{
+    float: left;
+    width: 50%;
+}
+
+p{
+    font-size: 18px;
+
+}
+
+h5, .love a{
+    font-size: 14px;
+    color: rgb(225, 40, 40);
+    font-weight: bold;
+
+}
+
+ol li {
+    list-style: decimal;
+    list-style-position: inside;
+    font-size: 1.25rem;
+    width: 90%;
+    padding: 1rem 0;
+    border-bottom: 1px solid lightgray;
+
+}
+
+.love2{
+    color: rgb(145, 143, 143);
+}
+
+
+h3{
+    font-size: 36px;
+    display: inline-block;
+
+}
+
+h4{
+    font-size: 20px;
+    width: 90%;
+
+}
+
+.terms-policies li{
+    font-size: 14px;
+    float: right;
+    padding: 10px;
+
+}
+
+.ford img{
+    width: 100%;
+}
+
+.page2 article h3 {
+    width: 87%;
+}
+
+
+.pg2-articles ul li a, .two a, h5 a{
+    text-decoration: none;
+    list-style: none;
+    color: black;
+}
+
+.page2 .ford span a{
+    color: rgb(121, 120, 120);
+}
+
+footer .social-media li button{
+    background: red;
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
+    float: left;
+    border: none;
+
+}
+
+footer .social-media li{
+    padding: 10px;
+    float: left;
+}
+
+.footer2 span{
+    /* padding-left: 47rem; */
+    padding-left: 25rem;
+    float: right;
+}
+
+.footer1{
+    float: left;
+    width: 50%;
+}
+
+.footer2{
+    float: right;
+    width: 50%;
+}
+
+
+.red{
+    color: red;
+}
+
+aside img{
+    width:90%;
+}
+
+h2{
+    padding-bottom: 1rem;
+    border-bottom: 10px solid red;
+}
+
+.page2 article h3 {
+    width: 75%;
+}
+
+
+.pg2-articles ul li{
+
+    width: 70%;
+    padding: 1rem 0;
+    border-bottom: 1px solid lightgray;
+
+}
+
+i{
+    font-size: 2rem;
+    padding: 0  1rem;
+    
+
+
+}
+
+.footer1{
+    margin-left: 1rem;
+}
