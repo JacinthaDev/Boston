@@ -1,4 +1,4 @@
-# Boston
+# Boston Mockup
 
 <img width="1440" alt="BOSTON1" src="https://github.com/JacinthaDev/Boston/assets/129231721/cdef02e8-c90b-40fb-8ec3-ebddb041a389">
 <img width="1440" alt="BOSTON2" src="https://github.com/JacinthaDev/Boston/assets/129231721/b95cd937-8ecf-43b8-a4be-2b877476acee">
